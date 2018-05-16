@@ -9,3 +9,6 @@ I mainly used array as the data structure for this algorithm, even though I thin
 The program could be expanded for using the data set with more dimensions - just change how the distance between two points is calculated.
 
 There're more things I'd like to try with this program, and I'll upload any updats in the future.
+
+---------------------------------------------------------------------------------
+Included is also the R code for clusters with 3 and 6 nodes along with the data. For the R code to work simply change the setwd(diretory) to the directory where you have saved the data. The code should print out regression tables as well as the plots for the original and segmented data.
