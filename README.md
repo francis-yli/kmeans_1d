@@ -12,3 +12,5 @@ There're more things I'd like to try with this program, and I'll upload any upda
 
 ---------------------------------------------------------------------------------
 Included is also the R code for clusters with 3 and 6 nodes along with the data. For the R code to work simply change the setwd(diretory) to the directory where you have saved the data. The code should print out regression tables as well as the plots for the original and segmented data.
+Data.csv is communities.csv
+results#.csv is the out put of c program
